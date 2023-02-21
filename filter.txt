@@ -1,0 +1,6 @@
+127.0.0.1 api2-16-h2.musical.ly.edgekey.net
+127.0.0.1 bytedance.map.fastly.net
+127.0.0.1 musically-alternate.app.link
+127.0.0.1 musically.app.link
+127.0.0.1 p16-tiktokcdn-com.akamaized.net
+127.0.0.1 video.h1.bytedance.map.fastly.net
